@@ -1,8 +1,9 @@
 <div>
-    <h1 align="center"> dweg0 | Back-end Developer 🖖🏽</h1>
+    <h1 align="center"> dweg0 | Back-end Developer </h1>
 </div>
-        <a href="https://github.com/dwego" target="__blank">
-            <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        <div align="center">
+        <a href="https://github.com/Heloir" target="__blank">
+            <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </div>
       
@@ -26,6 +27,6 @@
     
  <div align="center">
  
-   ![Snake animation](https://github.com/AfonsoBezerra/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/dwego/dwego/blob/output/github-contribution-grid-snake.svg)
 
   </div>
