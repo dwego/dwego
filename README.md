@@ -12,7 +12,7 @@
 
 |  **PROPRIEDADES** | **TECNOLOGIAS** |
 | :---------        |     :---------  |
-|**Linguagem / IDE** | <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> |
+|**IDE** | <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> |
 | **API** | <img align="center" alt="RESTFULL_API" height="30" src="https://img.shields.io/badge/API_RestFull-527a7a?&style=for-the-badge&logo=RestApi&logoColor=white">|
 |**Conhecimento / Uso** | <img align="center" alt="GIT" height="30" src="https://img.shields.io/badge/git-61210B?&style=for-the-badge&logo=git&logoColor=white">  <img align="center" alt="VERCEL" height="30" src="https://img.shields.io/badge/Vercel-0047b3?&style=for-the-badge&logo=Vercel&logoColor=white"> <img align="center" alt="NETLIFY" height="30" src="https://img.shields.io/badge/netlify-007294?&style=for-the-badge&logo=netlify&logoColor=white"> <img align="center" alt="GITHUB" height="30" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">|
  | **Style** | <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/css-007ACC?style=for-the-badge&logo=css3&logoColor=white"> <img align="center" alt="SASS" height="30"  src="https://img.shields.io/badge/sass-purple?&style=for-the-badge&logo=sass&logoColor=white">|
