@@ -2,7 +2,7 @@
     <h1 align="center"> dweg0 | Back-end Developer 🖖🏽</h1>
 </div>
         <a href="https://github.com/dwego" target="__blank">
-            <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+            <img align="center" <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </div>
       
