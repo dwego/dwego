@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center"> dweg0 | Back-end Developer </h1>
+    <h1 align="center"> dweg0 | Full-stack Developer </h1>
 </div>
         <div align="center">
         <a href="https://github.com/Heloir" target="__blank">
