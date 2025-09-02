@@ -26,7 +26,7 @@ I build VMs, interpreters, REST APIs and more  <br>Always learning — aiming to
 [![LINKEDIN](https://img.shields.io/badge/Diego%20Trigo%20Araujo-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dweg0/)
 [![INSTAGRAM](https://img.shields.io/badge/dweg0-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dweg0/)
 [![GMAIL](https://img.shields.io/badge/dtrigoaraujo@gmail.com-000000?style=flat&logo=Gmail&logoColor=white)](mailto:dtrigoaraujo@gmail.com)
-[![DISCORD](https://img.shields.io/badge/grwx-000000?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1274150219482660897)
+[![DISCORD](https://img.shields.io/badge/dweg0-000000?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1274150219482660897)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dwego&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
