@@ -1,6 +1,6 @@
 # Diego Trigo Araujo
 
-I build VMs, interpreters, REST APIs and more  <br>- Always learning — aiming to solve real problems with clean code<br><br>"What we know is a drop, what we don't know is an ocean" -Isaac Newton
+I build VMs, interpreters, REST APIs and more  <br>Always learning — aiming to solve real problems with clean code<br><br>"What we know is a drop, what we don't know is an ocean" -Isaac Newton
 
 #### Technologies and tools
 
