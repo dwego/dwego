@@ -29,4 +29,4 @@ I build VMs, interpreters, REST APIs and more  <br>Always learning — aiming to
 [![DISCORD](https://img.shields.io/badge/dweg0-000000?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1274150219482660897)
 
 #### GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=dwego&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com?user=dwego&theme=dark)]
