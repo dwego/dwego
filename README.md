@@ -1,7 +1,6 @@
-# Diego Trigo Araujo
+## Diego Trigo Araujo
 
-I build VMs, interpreters, REST APIs and more  <br>Always learning — aiming to solve real problems with clean code<br><br>"What we know is a drop, what we don't know is an ocean" -Isaac Newton
-
+I build systems, explore low-level programming, and work on open-source projects across software, mathematics, physics, and engineering. <br>Always learning — aiming to solve real problems with clean code<br><br>“Simple things should be simple, complex things should be possible.” — Alan Kay
 #### Technologies and tools
 
 [![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
